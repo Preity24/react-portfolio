@@ -25,11 +25,6 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "github",
-        "url": "http://github.com/sonnysangha",
-        "className": "fa fa-github"
-      },
-      {
         "name": "stackOverflow",
         "url": "https://stackoverflow.com/users/5515908/techie-questie",
         "className": "fa fa-stack-overflow"

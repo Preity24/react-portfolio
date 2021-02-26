@@ -17,29 +17,19 @@ const Contact = ({ data }) => {
 
     return (
       <section id="contact">
-
          <div className="row section-head">
-
             <div className="two columns header-col">
-
                <h1><span>Get In Touch.</span></h1>
-
             </div>
-
             <div className="ten columns">
-
-                  <p className="lead">{data?.message}</p>
-
+               <p className="lead">{data?.message}</p>
             </div>
-
          </div>
 
          <div className="row">
             <div className="eight columns">
-
                <form id="contactForm" name="contactForm">
 					<fieldset>
-
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
 						   <input value={name} type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={e => setName(e.target.value)}/>
@@ -89,7 +79,6 @@ const Contact = ({ data }) => {
 				   </div>
 
                <div className="widget widget_tweets">
-
 		         </div>
             </aside>
       </div>

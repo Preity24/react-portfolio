@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li style={{color: "#fff"}}>Made with love ♥️</li>
+            <li style={{color: "#fff"}}>Made with ♥️</li>
            </ul>
 
         </div>

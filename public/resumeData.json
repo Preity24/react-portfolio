@@ -16,8 +16,7 @@
       "state": "Singapore",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1cnDup2fSaXoQo80Rr45W75FkEcWzOQGk/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1BEtmQ_wQu3iU1riaMW2YoObCrnyWyOW6/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -37,7 +36,7 @@
         "school": "Sathyabama University",
         "degree": "Bachelors of Engineering in Electronics & TeleCommunications",
         "graduated": "April 2012",
-        "description": "Graduated with CGPA 8.3",
+        "description": "I have been in first 5 toppers of ETCE department. I also worked as one of the core team members of a Satellite Project(by ISRO) in college.",
         "location": "Chennai, TamilNadu, India"
       },
       {
@@ -59,14 +58,14 @@
         "title": "Lead Developer && React Specialist",
         "years": "September 2019 - Present",
         "location": "Singapore, Singapore",
-        "description": "Working as a lead developer for a banking application. Involved in performance fine-tuning, code-debugging, component development, PR Reviews, co-ordinating across teams etc. Acknowledged and appreciated by client for project deliverables."
+        "description": "Currently working as a lead developer for a UOB-NexGen Infinity Digital Banking application. Involved in performance fine-tuning, code-debugging, component development, PR Reviews, co-ordinating across teams etc. Acknowledged and appreciated by client for project deliverables."
       },
       {
         "company": "Deloitte Digital",
         "title": "Lead Developer && Front End Specialist",
         "years": "May 2015 - August 2019",
         "location": "Bengaluru, Karnataka, India",
-        "description": "Started as a Junior Front End Developer and have been awarded with two promotions for my exemplary performance. Worked as a Senior Developer for various domains such as insurance, e-commerce. Also, took part in multiple Hackathons involving ML, AR/VR."
+        "description": "Started as a Junior Front End Developer and have been awarded with two promotions for my exemplary performance. Worked as a Senior Developer for various domains such as insurance, e-commerce. Have been part of the first client project based on Blockchain in Deloitte and worked as an Individual contributor as well as a Lead Developer. Also, took part in multiple Hackathons involving ML, AR/VR."
       },
       {
         "company": "Cognizant Technology Solutions",
@@ -116,6 +115,39 @@
       {
         "name": "Webpack",
         "level": "70%"
+      },
+      {
+        "name": "Agile",
+        "level": "80%"
+      },
+      {
+        "name": "Blockchain",
+        "level": "20%"
+      }
+    ],
+    "extraCurriculars": [
+      {
+        "description": "Collaborated in a team of 15-20 fellow volunteers to clean the Yelahanka Lake, Bengaluru,Karnataka and plantation of trees."
+      },
+      {
+        "description": "Volunteered in Food prep, painting, craft-work for children in Samarthanam’s Special School, Bengaluru,Karnakata."
+      },
+      {
+        "description": "Involved as an event co-ordinator with other fellow volunteers for teaching primary school students in an event organised by Deloitte USI called VidyaVahini in bengaluru, Karnataka."
+      },
+      {
+        "description": "Organised College Fest and have played many Badminton tournaments conducted at college and organisation level."
+      }
+    ],
+    "awards": [
+      {
+        "description": "Project Delivery Award at UOB for Singapore go live of Infinity Digital Banking application."
+      },
+      {
+        "description": "SPOT Awards at Deloitte Consulting USI for Project Delivery and being a 2nd runner-up in a Hackathon for building a 2D game."
+      },
+      {
+        "description": "Appreciation Award at Cognizant Technoloy Solutions for Project Delivery."
       }
     ]
   },
@@ -156,8 +188,16 @@
   "testimonials": {
     "testimonials": [
       {
+        "text": "Preeti is dynamic and self-motivated to work for stakeholder success. She was able to quickly adapt and learn newer technologies such as React(both JS & Native). She is a team player and would be a good addition to any project. She has worked with me in Insurance Custom Dev. project and has supported skills for full stack development with a preference to work on Front End. She was also mentoring a fresh graduate to build skills for client delivery. I wish her all the best for her career.",
+        "user": "Alpesh Makwana - Ex Supervisor"
+      },
+      {
         "text": "Preeti is an enthusiastic person with dynamic skills, we both together in one of the healthcare project which was in a fire fighting mode to meet the delivery schedule.she had delivered the designs in a very specular way streamlined to the customer requirements.The exceptionality identified was on to Team Management, Meeting the delivery lines putting extra hours beyond the scheduled timelines and taking individual ownership being a starter. I really appreciate preeti for her hard earned efforts which had been recognised and wish all success in same pace for future assignments.",
         "user": "Renjith G - Ex Supervisor"
+      },
+      {
+        "text": "Preeti had worked with me for the tenure of more than a year. She was one of best performers in the team. Being one of smart and active contributor, she managed to contribute towards complex technical solutioning. Her skills on FE technologies bring the project to high quality with 100% pass rate. All the best for her future achievements.",
+        "user": "Vaibhav Aggarwal - Ex Supervisor"
       }
     ]
   }
